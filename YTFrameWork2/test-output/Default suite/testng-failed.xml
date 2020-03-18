@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]" parallel="none">
+  <test name="Default test(failed)" parallel="none">
+    <classes>
+      <class name="org.testing.testScript.TC4">
+        <methods>
+          <include name="videoplay_subscribe"/>
+          <include name="logout"/>
+          <include name="browseLaunch"/>
+        </methods>
+      </class> <!-- org.testing.testScript.TC4 -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

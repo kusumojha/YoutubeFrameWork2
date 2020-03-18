@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="none">
+  <test name="Test(failed)" parallel="none">
+    <classes>
+      <class name="org.testing.testScript.TC6">
+        <methods>
+          <include name="logout"/>
+          <include name="browseLaunch"/>
+        </methods>
+      </class> <!-- org.testing.testScript.TC6 -->
+      <class name="org.testing.testScript.TC5">
+        <methods>
+          <include name="logout"/>
+          <include name="browseLaunch"/>
+        </methods>
+      </class> <!-- org.testing.testScript.TC5 -->
+      <class name="org.testing.testScript.TC4">
+        <methods>
+          <include name="videoplay_subscribe"/>
+          <include name="logout"/>
+          <include name="browseLaunch"/>
+        </methods>
+      </class> <!-- org.testing.testScript.TC4 -->
+      <class name="org.testing.testScript.TC3">
+        <methods>
+          <include name="logout"/>
+          <include name="browseLaunch"/>
+        </methods>
+      </class> <!-- org.testing.testScript.TC3 -->
+      <class name="org.testing.testScript.TC1">
+        <methods>
+          <include name="logout"/>
+          <include name="browseLaunch"/>
+        </methods>
+      </class> <!-- org.testing.testScript.TC1 -->
+      <class name="org.testing.testScript.TC2">
+        <methods>
+          <include name="logout"/>
+          <include name="browseLaunch"/>
+        </methods>
+      </class> <!-- org.testing.testScript.TC2 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

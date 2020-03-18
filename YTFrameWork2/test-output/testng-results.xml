@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="241156" started-at="2020-03-18T04:25:13Z" finished-at="2020-03-18T04:29:14Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="241156" started-at="2020-03-18T04:25:13Z" finished-at="2020-03-18T04:29:14Z">
+      <class name="org.testing.testScript.TC2">
+        <test-method status="PASS" signature="browseLaunch()[pri:0, instance:org.testing.testScript.TC2@37e547da]" name="browseLaunch" is-config="true" duration-ms="8036" started-at="2020-03-18T09:55:50Z" finished-at="2020-03-18T09:55:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseLaunch -->
+        <test-method status="PASS" signature="Subscription()[pri:0, instance:org.testing.testScript.TC2@37e547da]" name="Subscription" duration-ms="18544" started-at="2020-03-18T09:55:58Z" finished-at="2020-03-18T09:56:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Subscription -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:org.testing.testScript.TC2@37e547da]" name="logout" is-config="true" duration-ms="12666" started-at="2020-03-18T09:56:16Z" finished-at="2020-03-18T09:56:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- org.testing.testScript.TC2 -->
+      <class name="org.testing.testScript.TC3">
+        <test-method status="PASS" signature="browseLaunch()[pri:0, instance:org.testing.testScript.TC3@2b6856dd]" name="browseLaunch" is-config="true" duration-ms="7807" started-at="2020-03-18T09:56:29Z" finished-at="2020-03-18T09:56:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseLaunch -->
+        <test-method status="PASS" signature="videoplay_like()[pri:0, instance:org.testing.testScript.TC3@2b6856dd]" name="videoplay_like" duration-ms="22585" started-at="2020-03-18T09:56:37Z" finished-at="2020-03-18T09:56:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- videoplay_like -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:org.testing.testScript.TC3@2b6856dd]" name="logout" is-config="true" duration-ms="13052" started-at="2020-03-18T09:56:59Z" finished-at="2020-03-18T09:57:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- org.testing.testScript.TC3 -->
+      <class name="org.testing.testScript.TC1">
+        <test-method status="PASS" signature="browseLaunch()[pri:0, instance:org.testing.testScript.TC1@6295d394]" name="browseLaunch" is-config="true" duration-ms="7953" started-at="2020-03-18T09:55:13Z" finished-at="2020-03-18T09:55:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseLaunch -->
+        <test-method status="PASS" signature="Trending()[pri:0, instance:org.testing.testScript.TC1@6295d394]" name="Trending" duration-ms="15525" started-at="2020-03-18T09:55:21Z" finished-at="2020-03-18T09:55:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Trending -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:org.testing.testScript.TC1@6295d394]" name="logout" is-config="true" duration-ms="13112" started-at="2020-03-18T09:55:37Z" finished-at="2020-03-18T09:55:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- org.testing.testScript.TC1 -->
+      <class name="org.testing.testScript.TC6">
+        <test-method status="PASS" signature="browseLaunch()[pri:0, instance:org.testing.testScript.TC6@7c417213]" name="browseLaunch" is-config="true" duration-ms="7856" started-at="2020-03-18T09:58:38Z" finished-at="2020-03-18T09:58:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseLaunch -->
+        <test-method status="PASS" signature="liBRARY()[pri:0, instance:org.testing.testScript.TC6@7c417213]" name="liBRARY" duration-ms="16339" started-at="2020-03-18T09:58:45Z" finished-at="2020-03-18T09:59:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- liBRARY -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:org.testing.testScript.TC6@7c417213]" name="logout" is-config="true" duration-ms="12641" started-at="2020-03-18T09:59:02Z" finished-at="2020-03-18T09:59:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- org.testing.testScript.TC6 -->
+      <class name="org.testing.testScript.TC4">
+        <test-method status="PASS" signature="browseLaunch()[pri:0, instance:org.testing.testScript.TC4@5db45159]" name="browseLaunch" is-config="true" duration-ms="7243" started-at="2020-03-18T09:57:13Z" finished-at="2020-03-18T09:57:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseLaunch -->
+        <test-method status="PASS" signature="videoplay_subscribe()[pri:0, instance:org.testing.testScript.TC4@5db45159]" name="videoplay_subscribe" duration-ms="26755" started-at="2020-03-18T09:57:20Z" finished-at="2020-03-18T09:57:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- videoplay_subscribe -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:org.testing.testScript.TC4@5db45159]" name="logout" is-config="true" duration-ms="13274" started-at="2020-03-18T09:57:47Z" finished-at="2020-03-18T09:58:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- org.testing.testScript.TC4 -->
+      <class name="org.testing.testScript.TC5">
+        <test-method status="PASS" signature="browseLaunch()[pri:0, instance:org.testing.testScript.TC5@6107227e]" name="browseLaunch" is-config="true" duration-ms="7998" started-at="2020-03-18T09:58:00Z" finished-at="2020-03-18T09:58:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browseLaunch -->
+        <test-method status="PASS" signature="History()[pri:0, instance:org.testing.testScript.TC5@6107227e]" name="History" duration-ms="16329" started-at="2020-03-18T09:58:08Z" finished-at="2020-03-18T09:58:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- History -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:org.testing.testScript.TC5@6107227e]" name="logout" is-config="true" duration-ms="13416" started-at="2020-03-18T09:58:24Z" finished-at="2020-03-18T09:58:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- org.testing.testScript.TC5 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
